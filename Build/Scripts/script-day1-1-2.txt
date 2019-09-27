@@ -1,0 +1,5 @@
+﻿//Therapon: Day 1 - Scene 2/n
+//After First Clean/n
+0_Blitz_normal|normal_idle_"Thank Hydrios. It should be safe now."_blitz-emote-brilliant_none/n
+1_Blitz_normal|normal_idle_"But this shall be a mear fluke unless we can get the rest of the eggs hydrated. We should make ourselves a water pump lickety-split!"_none_none/n
+EventTrigger_Go2WaterPump-1-1

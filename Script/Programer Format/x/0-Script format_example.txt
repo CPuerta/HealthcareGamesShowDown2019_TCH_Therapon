@@ -1,0 +1,7 @@
+//TEST
+
+0_masher_sad/open_idle_"Hello!"_voice1_none
+1_masher_sad/open_idle_"What do you think so far?"_voice1_"Baaaaad!":3,"Great!":4
+3_masher_sad/open_idle_"Aw that's too bad."_voice1_none_true_5
+4_masher_sad/open_idle_"Awesome!"_voice1__none_true_5
+5_masher_sad/open_idle_"Well, see ya later"_voice1_none_false

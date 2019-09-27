@@ -1,0 +1,3 @@
+﻿//Therapon: Day 12 - Scene 1.1/n
+0_Masher_normal|normal_idle_"Hello, boss! Ready to get this started??"_masher-emote-hellothere_none/n
+EventTrigger_HydrationCycle

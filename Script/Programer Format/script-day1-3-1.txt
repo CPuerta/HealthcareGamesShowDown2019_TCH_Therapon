@@ -1,0 +1,4 @@
+﻿//Therapon: Day 1 - Scene 6
+//Before 3rd Hydration Cycle Complete
+0_Blitz_normal|normal_idle_"Ah, my friend. It looks like our egg fellow is getting a bit hectic. Let’s get him rehydrated, eh?"_blitz-emote-hmm_none
+EventTrigger_HydrationCycle1-3

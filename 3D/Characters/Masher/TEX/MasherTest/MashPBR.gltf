@@ -1,0 +1,526 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10614,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2200,
+      "max": [
+        0.809074938297272,
+        1.0,
+        0.322674304246902
+      ],
+      "min": [
+        -0.809074938297272,
+        -1.0,
+        -0.373418569564819
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2200,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2200,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 390,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 77,
+      "max": [
+        0.197950258851051,
+        0.251893609762192,
+        0.325812965631485
+      ],
+      "min": [
+        -0.197683662176132,
+        0.102003961801529,
+        0.275439321994781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 77,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 77,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5125,
+      "count": 420,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 88,
+      "max": [
+        0.257704526185989,
+        0.593939125537872,
+        0.325227528810501
+      ],
+      "min": [
+        -0.257732897996902,
+        0.26240748167038,
+        0.196116954088211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 88,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 3456,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 683,
+      "max": [
+        0.719020068645477,
+        0.144108906388283,
+        0.600950121879578
+      ],
+      "min": [
+        -0.719000816345215,
+        -0.351768553256989,
+        -0.600950062274933
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 683,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 683,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5125,
+      "count": 5376,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 1336,
+      "max": [
+        0.663601160049438,
+        0.164240270853043,
+        0.558616876602173
+      ],
+      "min": [
+        -0.663603067398071,
+        -0.0221191477030516,
+        -0.566858232021332
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 1336,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 1336,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Substance Painter 2019.1.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 42456,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26400,
+      "byteOffset": 42456,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26400,
+      "byteOffset": 68856,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17600,
+      "byteOffset": 95256,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1560,
+      "byteOffset": 112856,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 924,
+      "byteOffset": 114416,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 924,
+      "byteOffset": 115340,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 616,
+      "byteOffset": 116264,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1680,
+      "byteOffset": 116880,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1056,
+      "byteOffset": 118560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1056,
+      "byteOffset": 119616,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 704,
+      "byteOffset": 120672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13824,
+      "byteOffset": 121376,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8196,
+      "byteOffset": 135200,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8196,
+      "byteOffset": 143396,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5464,
+      "byteOffset": 151592,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21504,
+      "byteOffset": 157056,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16032,
+      "byteOffset": 178560,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16032,
+      "byteOffset": 194592,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10688,
+      "byteOffset": 210624,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 221312,
+      "uri": "MashPBR.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "BodySG_baseColor.png"
+    },
+    {
+      "uri": "BodySG_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "BodySG_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "name": "BodySG",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "lambert2SG",
+      "pbrMetallicRoughness": {}
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "lambert3SG",
+      "pbrMetallicRoughness": {}
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Body",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Body e_mouth",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Body e_eyes",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Body RingCollar",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Body Gems",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TEXCOORD_0": 19
+          },
+          "indices": 16,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "JellyKidMerged_3.obj",
+      "scale": [
+        52.0182991027832,
+        52.0182991027832,
+        52.0182991027832
+      ],
+      "translation": [
+        0.0,
+        52.0190010070801,
+        -0.0272006988525391
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "g Body"
+    },
+    {
+      "mesh": 0,
+      "name": "Body"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "g Body e_mouth"
+    },
+    {
+      "mesh": 1,
+      "name": "Body e_mouth"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "g Body e_eyes"
+    },
+    {
+      "mesh": 2,
+      "name": "Body e_eyes"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "g Body RingCollar"
+    },
+    {
+      "mesh": 3,
+      "name": "Body RingCollar"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "g Body Gems"
+    },
+    {
+      "mesh": 4,
+      "name": "Body Gems"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9985,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿//Therapon: Day 2 - Scene 1
+//MeetBlitz
+0_Blitz_normal|normal_idle_"The more electronuggets in the air, the healthier he will be and the faster he will grow."_none_none
+1_Masher_normal|normal_idle_"*crying*"_none_none
+2_Blitz_normal|normal_idle_"Ga-ah! Quite the noisy fellow. I expect a swim will calm him down. Until later, friend."_none_none

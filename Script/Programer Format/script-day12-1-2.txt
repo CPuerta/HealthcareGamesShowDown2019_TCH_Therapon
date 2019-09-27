@@ -1,0 +1,11 @@
+﻿//Therapon: Day 12 - Scene 1.2
+
+0_Masher_excited|normal_spin_"Mmm...I for one always feel like a new man after cleaning like that!"_masher-emote-aww_none
+	//Blitz comes into frame
+1_Blitz_normal|normal_idle_"Though I’m happy to see you keeping up with your routine, Masher, it wouldn’t hurt to be a little more vigilant now."_blitz-emote-huh_none
+2_Blitz_normal|normal_idle_"What if the Malesoids were to return?"_none_none
+3_Masher_bored|normal_idle_"Ah, relax Blitz. We whooped those guys once already. If come back, we’ll do it again no problem!"_masher-emote-hmm_none
+4_Blitz_normal|normal_idle_"Well, I’m sure our friend here would have no problem of it, at least."_blitz-emote-hmm_none
+5_Masher_angry|frown_idle_"W-what’s that supposed to mean!"_masher-emote-gasp_none
+6_Blitz_normal|normal_idle_"Anywho, we had better get one of those electrical rods installed. Should help us with putting Hydrios back in order swifty."_blitz-emote-ehwhat_none
+EventTrigger_BuildElectricRod

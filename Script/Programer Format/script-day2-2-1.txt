@@ -1,0 +1,3 @@
+﻿//Therapon: Day 2 - Scene 2
+//MeetBlitz
+0_Blitz_normal|normal_idle_"Proper hydration is utterly vital to this young fellows growth! Please finish up the next Water pump with all due haste."_none_none

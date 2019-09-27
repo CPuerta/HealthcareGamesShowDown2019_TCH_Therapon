@@ -1,0 +1,3 @@
+﻿//Therapon: Day 2 - Scene 1
+//MeetBlitz
+0_Blitz_normal|normal_idle_"Oh, heavens! What a handsome little devil! He’ll need more moisture now. I think a second water pump is in order."_none_none

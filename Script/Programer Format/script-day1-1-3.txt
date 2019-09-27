@@ -1,0 +1,4 @@
+﻿//Therapon: Day 1 - Scene 3
+//After First Fountain Built
+0_Blitz_normal|normal_idle_"Magnificent! It may be some time before we are ready to continue, but I shall alert you when ‘tis time."_blitz-emote-ahha_none
+1_Blitz_normal|normal_idle_"Tally-ho!"_none_none

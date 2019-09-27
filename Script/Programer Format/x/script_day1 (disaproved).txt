@@ -1,0 +1,187 @@
+//THERAPON - SCRIPT Programing format.
+//_______________
+//Day 1
+//_______________
+
+	//Black Screen
+
+narration_none_none_"...."
+narration_none_none_"Where is this?"
+
+blitz_normalEyes/normalMouth_idle_"Hello? Is anyone there?"
+blitz_wideEyes/normalMouth_idle_"*gasp*"
+blitz_angryEyes/normalMouth_idle_"You there! What in the blazes are you doing with that egg?"
+blitz_angryEyes/normalMouth_idle_"Planning on causing it harm, eh?"
+narration_"Harm it? You don't even know how it got here."
+narration_"For that matter, how did YOU get here?"
+blitz_normalEyes/normalMouth_idle_"Now no funny business. Hand over the egg and I may just pretend I didn't see anything."
+narration_"You need to make him less wary of you. But how...?"
+
+	//Touch screen to smack Blitz
+
+blitz_wideEyes/normalMouth_idle_"What in the skrivelling skrumbeldoff? What was that for?"
+blitz_angryEyes/normalMouth_idle_"Have you never been told to behave yourself around stra-"
+blitz_normalEyes/normalMouth_idle_"Wait...what?"
+
+	//Egg starts glowing.
+
+blitz_normalEyes/normalMouth_idle_"It's...resonating with you."
+blitz_normalEyes/normalMouth_idle_"Wait...could this mean you're the one?"
+
+	//Monster noises
+
+blitz_angryEyes/normalMouth_idle_"Fungal foot! They've found us."
+blitz_normalEyes/normalMouth_idle_"Listen closely. I'll give you my trust for the moment, but we must run for now. "
+blitz_normalEyes/normalMouth_idle_"We'll be safe once we arrive at Hydria. Chop chop, fellow!"
+
+	//Arrived in Hydrios
+
+blitz_sadEyes/normalMouth_idle_"*phew* By a hair's breadth, we made it."
+blitz_normalEyes/normalMouth_idle_"Oh, right. I suppose proper introductions are in order."
+blitz_happyEyes/normalMouth_idle_"I am called, Blitz. Faithful steward to Lady Hydrios and protector of electoids!"
+blitz_happyEyes/normalMouth_idle_"...."
+blitz_happyEyes/normalMouth_idle_"Hmm? Why the befuddled looked?"
+blitz_wideEyes/normalMouth_idle_"W-what do you mean 'Who's Lady Hydrios.'"
+blitz_angryEyes/normalMouth_idle_"She is our illustrious guardian! The protector of all electoids, from egg to adulthood-"
+blitz_wideEyes/normalMouth_idle_"*gasp* Egg! Where is the egg?! Did you pick it up?"
+
+	//Look and see the egg bellow you.
+
+blitz_sadEyes/normalMouth_idle_"Thank the Guardians! WE must get it cleaned & reenergized right away!"
+
+	//After Cleaning Tutorial
+
+blitz_normalEyes/normalMouth_idle_"Ah. Excellent. Alas, we may breath easy for a moment."
+blitz_normalEyes/normalMouth_idle_"If this egg hadn't been taken care of when it was..."
+blitz_happyEyes/normalMouth_idle_"Well no matter. It's safe and sound now."
+blitz_normalEyes/normalMouth_idle_"I suppose you have some questions, do you not? Well, ask away."
+
+	//PC Q1 - "Where am I?"
+
+blitz_normalEyes/normalMouth_idle_"Where? My peculiar friend, you are in our great world of Therapon! "
+blitz_normalEyes/normalMouth_idle_"Tiz a world few humans such as yourself have been gifted the ability to see."
+blitz_normalEyes/normalMouth_idle_"Yet you are...special somehow."
+
+	//PC Q2 - "You said I �resonated� with the egg?"
+
+blitz_normalEyes/normalMouth_idle_"Indeed. Every so often, an electoid egg will perform something we call 'resonance'."
+blitz_normalEyes/normalMouth_idle_"This is the egg's way of...choosing it�s protector, you might say. It�s care-taker. "
+blitz_normalEyes/normalMouth_idle_"And this egg is...extra special. It�s choice to resonate with you is no coincidence. "
+
+	//PC Q3 - "What�s a 'Guardian'?"
+
+blitz_normalEyes/normalMouth_idle_"Ah. You are referring to Lady Hydrios, yes?"
+blitz_normalEyes/normalMouth_idle_"You see, there are many realms in Therapon. Each with their own people & cultures."
+blitz_normalEyes/normalMouth_idle_"Every realm is overseen but a powerful being who keeps it and its people safe. These are the beings we call the Guardians."
+blitz_normalEyes/normalMouth_idle_"But alas, our realm of Hydria has been abandoned for longer than anyone alive can remember. "
+blitz_normalEyes/normalMouth_idle_"And our Guardian, Lady Hydrios is...she has been in a deep slumber for some time. As such, she has not been able to protect us."
+blitz_normalEyes/normalMouth_idle_"That is why it falls to us..."
+blitz_normalEyes/normalMouth_idle_"...that is why it falls to me to make sure this land at these electoid eggs are kept safe. Until she awakens once more."
+
+	//PC Q4 - "That�s all." [Option only appears after asking all the questions.]
+
+blitz_normalEyes/normalMouth_idle_"Ah. Very good. In that case, I would like to ask you something."
+blitz_normalEyes/normalMouth_idle_"...would you be willing to assist me in helping build Hydria and grow these eggs?"
+blitz_normalEyes/normalMouth_idle_"Marvelous specimen though I may be, I am still but one person. It is far too much to take on alone."
+blitz_normalEyes/normalMouth_idle_"Yet...this egg chose to resonate with you, for some reason. I believe...you may be destined to help us. To help Lady Hydrios."
+blitz_normalEyes/normalMouth_idle_"So...will you help?"
+
+	//PC Q1 - "I don�t know..."
+
+blitz_normalEyes/normalMouth_idle_"Oh! Come one now, friend. Pleaaaaase?"
+	//Go Back to response options
+
+
+	//PC Q2 - "Ok! I�ll help."
+
+blitz_normalEyes/normalMouth_idle_"Brilliant! You have no idea how much I�m sure we will accomplish great things together, friend!"
+blitz_normalEyes/normalMouth_idle_"Well, for now, all we can do for this egg is help it grow."
+blitz_normalEyes/normalMouth_idle_"As for building the city, I have some ideas as to what we can do..."
+
+	//Blitz takes the player to where they will build the water pumps.
+
+blitz_normalEyes/normalMouth_idle_"Well, here we are, friend. Here we shall build the greatest kingdom that Therapon has ever known!"
+
+	//PC Q1 - "Looking forward to it, partner!"
+
+blitz_normalEyes/normalMouth_idle_"As am I!"
+blitz_normalEyes/normalMouth_idle_"Now, do you see those oddly shaped orbs?"
+
+	//PC Q2 - "What are those strange orbs?"
+
+blitz_normalEyes/normalMouth_idle_"Ah. You noticed those?"
+
+	//[Continue from all options here]
+
+blitz_normalEyes/normalMouth_idle_"These are what we call, Genesis Orbs. Or �Genesorbs� for short."
+blitz_normalEyes/normalMouth_idle_"They are the foundation on which you will build all sorts of things for our Kingdom."
+blitz_normalEyes/normalMouth_idle_"But for now, we need to focus on keeping all these eggs healthy. And for that, we�ll need a water pump."
+blitz_normalEyes/normalMouth_idle_"Let�s start with a platform. You always need a strong foundation when building anything, after all!"
+
+	//Tutorial on building first platform.
+
+blitz_normalEyes/normalMouth_idle_"Absolutely smashing!"
+blitz_normalEyes/normalMouth_idle_"I believe we are looking at the beginning of an extraordinary kingdom, friend."
+blitz_normalEyes/normalMouth_idle_"At any rate, for now we may rest. It may be some time before the egg is ready to be cleaned again. "
+blitz_normalEyes/normalMouth_idle_"I�ll watch over it until then and let you know the moment it�s in need of assistance!"
+blitz_normalEyes/normalMouth_idle_"Tally-ho!"
+
+	//Push Notification: "The Egg needs to be cleaned! Top speed to Hydrios, my friend!"
+	//When the player arrives
+
+blitz_normalEyes/normalMouth_idle_"Hello there! Ready to begin, friend?"
+
+	//Scan card. Complete hygiene process.
+
+narration_none_none_"Something strange about the egg. It looks like it�s starting to wake up!"
+blitz_normalEyes/normalMouth_idle_"Good codfish! Is...is it waking already?"
+blitz_normalEyes/normalMouth_idle_"This process typically takes several days to complete fully."
+blitz_normalEyes/normalMouth_idle_"Hmm..."
+blitz_normalEyes/normalMouth_idle_"Ah well. There shall be time to ponder this situation later. "
+blitz_normalEyes/normalMouth_idle_"For now, we must continue to work on our water pump, yes?"
+
+	//Play repeats building process: Water Orb is built on the fountain.
+
+	//Push Notification: "The Egg needs to be cleaned! Top speed to Hydrios, my friend!"
+	//When the player arrives
+
+blitz_normalEyes/normalMouth_idle_"Ah, my friend. It looks like our egg fellow is getting a bit hectic. Let�s get him rehydrated, eh?"
+
+	//Scan card. Complete hygiene process.
+
+narration_"Something strange about the egg. It looks like it�s starting to wake up!"
+blitz_normalEyes/normalMouth_idle_"This is unbelievable. At this rate, I�d say this egg with be hatched by tomorrow, or my name isn�t Blitzel Von Squishbosh!"
+
+	//PC Q1 - "'Blitzel Von Squishbosh'?"
+	//PC Q2 - "Maybe you should change your name..."
+
+blitz_normalEyes/normalMouth_idle_"!!! I-is there a problem with my name!"
+blitz_normalEyes/normalMouth_idle_"I�ll have you know, my dear mother granted me this name when I was born!"
+narration_"Yeah...that�s how names work."
+
+	//PC Q3 - "Uh...alright then."
+	//[Response to Option 3. Continue here from 1&2]
+
+blitz_normalEyes/normalMouth_idle_"A-at any rate, enough of this. We have a water pump to finish!"
+
+	//Player completes construction of water pump
+
+blitz_normalEyes/normalMouth_idle_"At last, Our first water pump is complete."
+blitz_normalEyes/normalMouth_idle_"I cannot thank you enough for all your assistance, friend. Now we can keep the rest of the eggs clean and health"
+
+	//PC Q1 - "What about the egg we�ve been cleaning?"
+
+blitz_normalEyes/normalMouth_idle_"That fellow. He is...um..a special case."
+blitz_normalEyes/normalMouth_idle_"My apologies, but I�m afraid that is all I can reveal at the moment."
+blitz_normalEyes/normalMouth_idle_"Or rather, that is all I know. That egg is different from the rest. I believe that is why he resonated with you."
+
+	//PC Q2 - "We�re making progress!"
+
+blitz_normalEyes/normalMouth_idle_"Indeed! Hydrios will be up and running before you know it!"
+
+	//[Continue from all options here]
+
+blitz_normalEyes/normalMouth_idle_"It truly is a sight to behold, is it not?"
+blitz_normalEyes/normalMouth_idle_"If only Lady Hydrios was here to see it..."
+blitz_normalEyes/normalMouth_idle_"...ah, no matter. I�m sure we shall find a way to awaken her soon enough."
+blitz_normalEyes/normalMouth_idle_"At any rate, that�s all we need for now, friend. You get yourself some well earned rest. I�ll let you know as soon as we need you again!"

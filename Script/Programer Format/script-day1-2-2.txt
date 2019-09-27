@@ -1,0 +1,5 @@
+﻿//Therapon: Day 1 - Scene 5
+After 2nd Hydration Cycle Complete
+0_Blitz_normal|normal_idle_"Excellent. Fellow looks quite happy, if I do say so myself"_none_none
+0_Blitz_normal|normal_idle_"We should continue working on that water pump, eh?"_none_none
+EventTrigger_Go2WaterPump-1-2

@@ -1,0 +1,5 @@
+﻿//Therapon: Day 4 - Scene 3
+//
+0_Masher_normal|normal_idle_"...hmmm…*chirp*!"_none_none
+1_Blitz_normal|normal_idle_"D-did he just...chirp? He’s grown so much in just the last day!"_none_none
+2_Blitz_normal|normal_idle_"I imagine he’ll be speaking full sentences before we know it!"_none_none

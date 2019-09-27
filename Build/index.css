@@ -1,0 +1,58 @@
+html, body {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#renderCanvas {
+  width: 100%;
+  height: 100%;
+  /* touch-action: none; */
+}
+#conceptArt {
+  z-index: 99;
+  position: fixed;
+  width: 100%;
+  height:  100%;
+}
+
+.fade-in {
+  animation-name: ImageFadeAnimation;
+  animation-duration: 5s;
+  animation-direction: normal;
+}
+
+.fade-out {
+  animation-name: ImageFadeAnimation;
+  animation-duration: 3s;
+  animation-direction: reverse;
+}
+
+#conceptArt.hidden {
+  display: none;
+}
+
+@keyframes ImageFadeAnimation {
+  from { opacity: 0; }
+  to { opacity: 1.0; }
+}
+#titleScreen {
+  z-index: 1000;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+#timerGIF {
+  z-index: 1000;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+
+}
+
+#timerGIF.hidden {
+  display: none;
+}

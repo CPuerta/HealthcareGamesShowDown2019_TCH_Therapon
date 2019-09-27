@@ -1,0 +1,4 @@
+﻿//Therapon: Day 1 - Scene 8/n
+//After 3rd Hydration Complete Cycle Complete/n
+0_Blitz_normal|normal_idle_"At last, Our first water pump is complete."_blitz-emote-brilliant_none/n
+1_Blitz_normal|normal_idle_"You get yourself some well earned rest, friend. I’ll let you know as soon as we need you again"_blitz-emote-allinthistogether_none

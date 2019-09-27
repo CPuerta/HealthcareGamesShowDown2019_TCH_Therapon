@@ -1,0 +1,3 @@
+﻿//Therapon: Day 3 - Scene 3
+//
+0_Blitz_normal|normal_idle_"Exceptional progress, friend! With 3 water pumps in, we have sufficient power to grow our city even more!"_none_none

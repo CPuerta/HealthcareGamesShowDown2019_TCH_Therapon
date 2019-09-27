@@ -1,0 +1,6 @@
+﻿//Therapon: Day 1 - Scene 7
+//After 3rd Hydration Cycle Complete
+
+0_Blitz_normal|normal_idle_"This is unbelievable. At this rate, I’d say this egg with be hatched by tomorrow, or my name isn’t Blitzel Von Squishbosh!"_blitz-emote-inconceivable_none
+1_Blitz_normal|normal_idle_"Well, enough of this. We have a water pump to finish!"_none_none
+EventTrigger_Go2WaterPump-1-3

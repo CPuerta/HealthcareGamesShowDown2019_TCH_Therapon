@@ -1,0 +1,11 @@
+﻿//Therapon: Day 1 - Scene 1 /n
+//MeetBlitz /n
+0_Blitz_normal|normal_idle_"Is anyone there?"_none_none/n
+//Blitz comes into frame /n
+1_Blitz_normal|normal_idle_"You there! I fear am in desperate need of your assistance"_blitz-emote-huh_none/n
+2_Blitz_normal|normal_idle_"Take this egg & come with more. Quickly before the Malesoids arrive!"_none_none/n
+//Cross-fade into world of Hydrios/n
+3_Blitz_normal|normal_idle_"*phew* That was quite the close call."_blitz-emote-hmm_none/n
+4_Blitz_normal|normal_idle_"Hello properly, friend! I am Blitz: servant of lady Hydrios and protector of the electoid eggs."_blitz-emote-HelloThere_none/n
+5_Blitz_normal|normal_idle_"This egg in particular is quite...extraordinary. Will you mind terribly with assisting me in keep it hydrated?"_none_none/n
+EventTrigger_HydrationCycle-1-1

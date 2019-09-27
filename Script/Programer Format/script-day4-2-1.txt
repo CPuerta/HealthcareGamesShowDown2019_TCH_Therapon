@@ -1,0 +1,4 @@
+﻿//Therapon: Day 4 - Scene 2
+//
+0_Masher_normal|normal_idle_"...hmmm ♪"_none_none
+1_Blitz_normal|normal_idle_"My word! Not only has he found his voice, but his tune as well. SImply splendid!"_none_none

@@ -1,0 +1,13 @@
+//Event Trigger List
+
+HydrationCycle			(Begins a Hydration Cycle. I.E. The part where the patient washes their hands and gargles.)
+Go2WaterPump			(Takes the player to the most recent water orb to continue building.)
+Particle-[ParticleName]		(Play Particle effect on camera. [Should we have vector or can it play right the middle ofthe cam always?])
+Wait-[Time in sec]		(Wait a set number of seconds before playing next event/dialogue line.)
+BuildElectricRod		(Build and electric rod)
+
+PlayBGS				(Play Sound Effect)
+
+PlayBGM				(Play music track)
+StopBGM				(Stop music track.)
+FadeBGM				(Fade out music tack.)

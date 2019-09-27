@@ -1,0 +1,4 @@
+﻿//Therapon: Day 1 - Scene 4/n
+//Before 1st Hydration Cycle Complete/n
+0_Blitz_normal|normal_idle_"Hello there! Ready to begin, friend? We need to keep this egg hydrated if we want it to hatch"_blitz-emote-HelloThere_none/n
+EventTrigger_HydrationCycle-1-2

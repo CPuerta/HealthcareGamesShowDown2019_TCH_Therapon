@@ -1,0 +1,3 @@
+﻿//Therapon: Day 4 - Scene 1
+//
+0_Blitz_normal|normal_idle_"Hello there! Ready to perform the hydration cycle?"_none_none

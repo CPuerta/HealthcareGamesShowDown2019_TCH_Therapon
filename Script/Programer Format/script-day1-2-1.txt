@@ -1,0 +1,5 @@
+﻿//Therapon: Day 1 - Scene 4
+//Before 1st Hydration Cycle Complete
+
+0_Blitz_normal|normal_idle_"Hello there! Ready to begin, friend?"_blitz-emote-hellothere_none
+EventTrigger_HydrationCycle-1-2

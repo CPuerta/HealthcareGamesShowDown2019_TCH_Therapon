@@ -1,0 +1,195 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5040,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1633,
+      "max": [
+        0.612726271152496,
+        1.0,
+        0.619805991649628
+      ],
+      "min": [
+        -0.612726271152496,
+        -1.0,
+        -0.619805991649628
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1633,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1633,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Substance Painter 2019.1.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 20160,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19596,
+      "byteOffset": 20160,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19596,
+      "byteOffset": 39756,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13064,
+      "byteOffset": 59352,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 72416,
+      "uri": "PumpPBR_David.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "WaterPump_baseColor.png"
+    },
+    {
+      "uri": "WaterPump_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "WaterPump_normal.png"
+    },
+    {
+      "uri": "WaterPump_emissive.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 3
+      },
+      "name": "WaterPump",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "WaterPump",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "root",
+      "scale": [
+        71.9417343139648,
+        71.9417343139648,
+        71.9417343139648
+      ],
+      "translation": [
+        0.306743621826172,
+        71.973503112793,
+        0.355770111083984
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "WaterPump"
+    },
+    {
+      "mesh": 0,
+      "name": "WaterPump"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9985,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

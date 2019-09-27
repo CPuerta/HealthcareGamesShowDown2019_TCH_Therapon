@@ -1,0 +1,6 @@
+﻿//Therapon: Day 4 - Scene 1
+//
+0_Blitz_normal|normal_idle_"Excellent. And as a reward for all your hard work, I have a little surprise."_none_none
+1_Masher_normal|normal_idle_"….hello?"_none_none
+2_Blitz_normal|normal_idle_"Haha! Our friend has found his voice, it seems."_none_none
+3_Blitz_normal|normal_idle_"With that, it’s time we planted our first qoral. Our electoid friends will need food, after all."_none_none

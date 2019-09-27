@@ -1,0 +1,3 @@
+blitz_nothing_armraised_"hello masher!" /n
+masher_exitedEyes/openMouth_idle_"Blitz! My friend!" /n
+masher_normaEyes/smile_spin_"Im so glad to see you" /n

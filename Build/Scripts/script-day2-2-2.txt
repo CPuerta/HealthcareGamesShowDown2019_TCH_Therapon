@@ -1,0 +1,4 @@
+﻿//Therapon: Day 2 - Scene 2
+//MeetBlitz
+0_Masher_normal|normal_idle_"*burbs*"_none_none
+1_Blitz_normal|normal_idle_"He approves! Well done! "_none_none
